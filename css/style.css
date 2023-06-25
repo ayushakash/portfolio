@@ -703,3 +703,31 @@ textarea {
   to {
     opacity: 0;
     top: 27px; } }
+
+    .education_year{
+      margin-left:3rem ;
+    }
+
+    .education_details{
+      margin-top: -1rem;
+      color:#666
+    }
+    .education_div{
+      margin-top: 6rem;
+    }
+
+    .education__content-details-para{
+      font-size: 1.8rem;
+      color: grey;
+      max-width: 60rem;
+      line-height: 1.7;
+      margin-bottom: 1rem;
+
+    }
+    .education-content{
+      display: flex;
+      align-items: center;
+    }
+    .resume_box{
+      margin-top: 5rem;
+    }
